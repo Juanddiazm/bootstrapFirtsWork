@@ -1,0 +1,64 @@
+.my-container {
+  margin: auto;
+  height: 500px;
+  
+  
+  }
+  .navbar{
+    padding: .5rem 14rem;
+  }
+
+.banner{
+ background-image: url("https://www.kells-school.com/wp-content/uploads/2017/07/banner-clases-jovenes-preparacion-examenes-nin%CC%83os-kells-school.jpg");
+}
+.my-container2{
+  padding: 100px;
+}
+.lap{
+  display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.bg-blue{
+  background-color: #11ADF1;
+}
+.carou{
+  padding-top: 5%;
+  padding-left: 30%;
+  padding-right: 30%
+  
+}
+
+
+black{
+  color: black;
+}
+write{
+  color: white;
+  font-size: 15px;
+}
+.t1{
+  color: black; 
+  font-size: 35px;
+  
+}
+
+.t2{
+  color:black;
+  font-style: oblique;
+  font-size: 27px;
+}
+.s1{
+  color: black;
+  font-size: 22px;
+}
+.s2{
+  color: gray;
+  font-size: 16px;
+  font-style: oblique;
+}
+.s3{
+  color: gray;
+  font-size: 13px;
+}
